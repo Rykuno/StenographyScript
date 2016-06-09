@@ -1,2 +1,2 @@
 # StenographyScript
-JavaScript Stenography code. Extract or embed an image inside of another. 
+Simple JavaScript Stenography code. Extract or embed an image inside of another. 
